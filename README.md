@@ -31,3 +31,19 @@ php artisan key:generate
 npm install && npm run dev
 php artisan migrate
 php artisan serve
+```
+
+## 🔐 Logowanie
+
+Zarejestruj konto, aby uzyskać dostęp do panelu.
+
+
+## 🚀 API Źródłowe
+
+Swagger Petstore
+Endpoints używane:
+GET /pet/findByStatus
+GET /pet/{id}
+POST /pet
+PUT /pet
+DELETE /pet/{id}
