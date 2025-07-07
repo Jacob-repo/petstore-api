@@ -6,7 +6,7 @@ Aplikacja CRUD zbudowana w Laravel 12, z wykorzystaniem zewnętrznego API [Swagg
 
 - Autoryzacja i rejestracja użytkownika (Laravel Breeze)
 - Lista zwierzaków z filtrem po statusie
-- Formularz dodawania i edycji z obsługą pól
+- Formularz dodawania i edycji
 - Komunikaty walidacyjne i odpowiedzi z API w języku polskim
 - Integracja z API: `https://petstore.swagger.io/v2`
 
