@@ -21,7 +21,7 @@ Aplikacja demonstracyjna CRUD dla zwierzaków, zbudowana w Laravel 12, z wykorzy
 ## ⚙️ Instalacja
 
 ```bash
-git clone https://github.com/twoj-uzytkownik/petstore-app.git
+git clone https://github.com/Jacob-repo/petstore-api.git
 cd petstore-app
 
 composer install
