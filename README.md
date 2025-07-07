@@ -41,9 +41,11 @@ Zarejestruj konto, aby uzyskać dostęp do panelu.
 ## 🚀 API Źródłowe
 
 Swagger Petstore
+
 Endpointy:
-GET /pet/findByStatus, 
-GET /pet/{id},
-POST /pet,
-PUT /pet,
-DELETE /pet/{id}
+- GET /pet/findByStatus,
+- GET /pet/{id},
+- POST /pet,
+- PUT /pet,
+- DELETE /pet/{id}
+
