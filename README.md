@@ -1,6 +1,6 @@
 # 🐾 Petstore App – Laravel + Swagger API
 
-Aplikacja demonstracyjna CRUD dla zwierzaków, zbudowana w Laravel 12, z wykorzystaniem zewnętrznego API [Swagger Petstore](https://petstore.swagger.io/). Pozwala na zarządzanie zasobami `/pet` – tworzenie, edycję, usuwanie i przeglądanie.
+Aplikacja CRUD zbudowana w Laravel 12, z wykorzystaniem zewnętrznego API [Swagger Petstore](https://petstore.swagger.io/). Pozwala na zarządzanie zasobami `/pet` – tworzenie, edycję, usuwanie i przeglądanie.
 
 ## ✨ Funkcje
 
